@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Angle Error:     0 degrees, Valid: 1
+Angle Error:     0 degrees, Valid: 1
+$stop called at time : 50 ns : File "D:/Vivado/Missile_Guidance_Chip.srcs/sim_1/new/testbench.sv" Line 51

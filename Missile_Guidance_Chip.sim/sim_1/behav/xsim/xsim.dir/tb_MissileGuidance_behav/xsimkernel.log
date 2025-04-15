@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_MissileGuidance_behav/xsimk.exe -simmode gui -wdb tb_MissileGuidance_behav.wdb -simrunnum 0 -socket 52851
+Design successfully loaded
+Design Loading Memory Usage: 28440 KB (Peak: 28440 KB)
+Design Loading CPU Usage: 765 ms
+Simulation completed
+Simulation Memory Usage: 29412 KB (Peak: 29412 KB)
+Simulation CPU Usage: 781 ms
